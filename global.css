@@ -1,8 +1,7 @@
-/* Basic callout popup */
- .basic-callout {
+.basic-callout {
      width:fit-content;
-     height: fit-content;
-     position: absolute;
+     height: auto;
+     position: fixed;
      top: 15%;
      left: 15%;
      right: 15%;
@@ -15,7 +14,7 @@
      background-color: #fff;
      border: 2px solid #363f4d;
      border-radius: 12px;
-     padding: 20px;
+     padding: 10px;
      z-index: 99999;
      overflow: hidden;
 }
