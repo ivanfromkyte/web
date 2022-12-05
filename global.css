@@ -2,7 +2,7 @@
  .basic-callout {
      width:fit-content;
      height: fit-content;
-     position: fixed;
+     position: absolute;
      top: 15%;
      left: 15%;
      right: 15%;
